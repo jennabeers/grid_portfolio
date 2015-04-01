@@ -55,3 +55,24 @@
   height: 300px;
   background-color: red;
 }
+.title {
+	text-align: right;
+}
+.portfolio-item{
+	text-align: center;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.thin {
+	font-weight: 100;
+}
+.light {
+	font-weight: 300;
+}
+.normal {
+	font-weight: 400;
+}
+.medium {
+	font-weight: 500;
+}
