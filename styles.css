@@ -1,6 +1,6 @@
 *{
   /* this will put a border around every element. It will be ugly, but useful to see how the framework is working */
-  border: 1px solid orange !important;
+  /*border: 1px solid orange !important;*/
 }
 *{
   /** this code tells the browser to include the border in calculating an element's height and width. webkit, moz, and ms are specifications for chrome, mozilla firefox, and internet explore **/
@@ -72,7 +72,9 @@ body{
 }
 .normal {
 	font-weight: 400;
+  color: #B8B8B8;
 }
 .medium {
 	font-weight: 500;
+  color: #5F6050;
 }
